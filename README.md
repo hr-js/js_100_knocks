@@ -1,6 +1,6 @@
 # JavaScript 100本 ノック
 
-* [1 ~ 10](knocks/1_10.md)
+* [01 ~ 10](knocks/1_10.md)
 * [11 ~ 20](knocks/11_20.md)
 * [21 ~ 30](knocks/21_30md)
 * [31 ~ 40](knocks/31_40.md)
